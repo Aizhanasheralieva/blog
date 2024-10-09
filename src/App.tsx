@@ -1,5 +1,7 @@
+import Blog from "./containers/Blog/Blog.tsx";
+
 const App = () => {
-  return <></>;
+  return <Blog />;
 };
 
 export default App;
